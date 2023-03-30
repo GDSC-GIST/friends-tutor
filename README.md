@@ -134,7 +134,7 @@ Minimum environment requirements versions are as follows.
 
 First. clone files from git.
 ```bash
-git clone https://github.com/2ood/friends-tutor.git 
+git clone https://github.com/GDSC-GIST/friends-tutor.git
 # web communicates through demo backend domain.
 # (which is https://www.gdsc-gist-lms.page:443)
 ```
@@ -142,7 +142,7 @@ Currently, main branch is <u>connected to demo backend domain.</u>
 If you want to run in the same local machine of backend, you should clone branch **'localhost-branch'**.
 
 ```bash
-git clone -b localhost-branch https://github.com/2ood/friends-tutor.git
+git clone -b localhost-branch https://github.com/GDSC-GIST/friends-tutor.git
 # web communicates with http://localhost:8080.
 ```
 
